@@ -1,4 +1,4 @@
----
+adb shell /data/app/~~vYrOmdLq6R-AjWbAUUveDg==/moe.shizuku.privileged.api-Y4939wVDWJEFIByln3ouvA==/lib/arm64/libshizuku.so---
 manufacturer: 
     - vivo
 
